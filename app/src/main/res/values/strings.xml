@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Affirmations Application</string>
+    <string name="affirmation1">if you are good at something, never do it for free</string>
+    <string name="affirmation2">A man who does not spend time with his family can never be a real man</string>
+    <string name="affirmation3">Do not compare yourself to others. If you do so, you are insulting yourself</string>
+    <string name="affirmation4">In this world, there are no good or bad people, only power and those too weak to seek it</string>
+    <string name="affirmation5">In a meeting,the loudest name is often the easiest to extinguish. But be cautious of the one who remains silent throughout and types quietly on the table - that is the one you should watch out for</string>
+</resources>
